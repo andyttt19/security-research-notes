@@ -37,3 +37,12 @@ My workflow focuses on:
 ## Purpose
 
 The purpose of this repository is educational and defensive security research, with a focus on improving software reliability and security.
+## Research Documentation
+
+Detailed notes and methodology are documented in:
+
+- PNG Parser Security Analysis
+- Research Environment
+- Research Methodology
+- Technical Analysis
+- Research Log
